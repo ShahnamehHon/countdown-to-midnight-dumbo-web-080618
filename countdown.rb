@@ -1,4 +1,4 @@
-#write your code here
+int = 12
 
 def countdown
 end

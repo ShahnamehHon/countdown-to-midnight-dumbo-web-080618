@@ -1,4 +1,5 @@
 int = 12
 
-def countdown
+def countdown(num)
+  
 end
